@@ -7,3 +7,4 @@ Unsure where or how to open each Jupyter notebook? Here's a great list of possib
 
 ![image](https://github.com/kaisarmasum/IBM-Quantum-Challenge-2024/assets/46898198/30fe1e58-714f-4e33-b1a2-3af93e2c1548)
 
+[IBM_Quantum_Challenge_2024_Achievement_Badge20240620-7-8oidbq.pdf](https://github.com/user-attachments/files/16062387/IBM_Quantum_Challenge_2024_Achievement_Badge20240620-7-8oidbq.pdf)
